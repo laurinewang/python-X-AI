@@ -24,6 +24,3 @@ a = input("請輸入你的名字:")
 print("輸入結束")
 print(int(a) + 10)
 print(type(a))  # 透過input()可以輸入文字
-
-
-r
