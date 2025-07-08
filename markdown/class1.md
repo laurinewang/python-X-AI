@@ -141,4 +141,7 @@ print(a + b)  # 顯示 "goodnight"
 name = "laurine"
 age = 13
 print(f"hello, my name is {name}, I am {age} years old.")  # 顯示 "hello, my name is laurine, I am 13 years old."
+name="rosie"
+age="11"
+print(f"hello, my name is {name}, I am {age} years old.")
 ```
