@@ -125,3 +125,4 @@ print(內容)
 endswith()：檢查結尾是不是某個字
 filename = "note.md"
 print(filename.endswith(".md")) # True
+'''
