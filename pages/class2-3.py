@@ -36,7 +36,7 @@ print(not False)  # True
 password = input("請輸入密碼:")
 if password == "goyounjung":
     print("hell0")
-elif password == "goyounjung2":  # 前面的條件都沒達成時ㄕg,會執行這個條件判斷
+elif password == "goyounjung2":  # 前面的條件都沒達成時,會執行這個條件判斷
     print("hell1")
 elif password == "goyounjung3":  # 前面的條件都沒達成時,會執行這個條件判斷
     print("hell2")

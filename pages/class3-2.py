@@ -11,3 +11,9 @@ if st.button("點我", key="button3"):
     st.snow()
 
 st.write("---")
+
+st.write("### 數字金字塔")
+
+num = st.number_input("請輸入一個數字:(1到9)", min_value=1, max_value=9, step=1)
+for i in range(1, num + 1):
+    st.write(f"{i}" * i)
