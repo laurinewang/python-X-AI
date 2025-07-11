@@ -1,0 +1,8 @@
+#vscode
+.vscode
+
+#Ignore environment files
+.streamlit/secrets.toml
+.env
+OPENAI_API_KEY="sk-proj-
+P7w1l1VZl2hUokvHahe2CHd4iUZ8GS4B2eSK8yW3OHcFWdmFitQsov889SpVrHJTd2sgm7fTxfT3BlbkFJmn46YKYnZEdvES8MdzccqqzeoA16UliC_JghR5bSqgNzQVIn836GbcdFIPqrx_0XzN_0KSKSMA"
